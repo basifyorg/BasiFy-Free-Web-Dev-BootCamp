@@ -1,0 +1,12 @@
+.p-color{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    transition: 2s;
+}
+
+
+#pc{
+    background-color: aqua;
+}
